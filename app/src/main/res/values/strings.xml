@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Candy Coded</string>
+    <string name="products_title">Products</string>
+    <string name="google_maps_not_available">Google maps is not available on this device</string>
+    <string name="plain_text_app_not_available">No text/plain app available on this device</string>
+    <string name="map_address">618 E South St Orlando, FL 32801</string>
+    <string name="phone_number">(012)345-6789</string>
+</resources>
